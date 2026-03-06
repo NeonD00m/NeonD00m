@@ -44,11 +44,11 @@ Hoping to work on projects using:
 
 ## Current Projects
 
-- 💧 **[AI Footprint](https://openclaw.ai)** - Tracks your ecological impacts from AI until you worry about it too much
+- 💧 **[AI Footprint](https://github.com/je-lam/AI-Footprint)** - Tracks your ecological impacts from AI until you worry about it too much
 - ☁️ **[BlueSkies](https://github.com/NeonD00m/blueskies-rust)** - Remake of a school project website in Rust with Dioxus
 - 🧠 **[Quizzy](https://github.com/NeonD00m/quizzy)** - Flashcard studying from your terminal
 - 🎮 **[Axis](https://github.com/NeonD00m/Axis)** - **A**ctually **A**gnostic **A**xes for your game's input on any device
-- 🍽️ **[MealSense](https://github.com/NeonD00m/MealSense)** - AI Dietitian integrated into your university cafeteria's mobile ordering app 
+- 🍽️ **[MealSense](https://github.com/Victor-JB/MealSense)** - AI Dietitian integrated into your university cafeteria's mobile ordering app 
 - 💩 **[FECES](https://github.com/NeonD00m/feces)** - the ~~revolutionary~~ original *generalized* networking library for ECS games 
 
 ## Legacy Work
