@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **NeonD00m/NeonD00m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +15,6 @@ Here are some ideas to get you started:
 
 # I'm Max and welcome to my profile 👋
 
-🏫 **Student at Santa Clara University**
-
 📚 **Majoring in Computer Science and Engineering, with a Minor in Economics**
 
 🎮 **Hobbyist Game Dev with a renewed excitement to explore other fields of software**
@@ -33,12 +29,13 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![WXT](https://img.shields.io/badge/-WXT-000000?style=flat-square&logo=wxt)
 
+
 Powered by ![Zed](https://img.shields.io/badge/-Zed-000000?style=flat-square&logo=zedindustries)
-And occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=flat-square&logo=googlegemini&logoColor=4588D8)
+and occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=flat-square&logo=googlegemini&logoColor=4588D8)
 
-> Slowed down by University, but waiting for my next big project...
+> Slowed down by University, but waiting for my next big project... 🥀
 
-🥀 Hoping to work on projects using:
+Hoping to work on projects using:
 ![Godot](https://img.shields.io/badge/-Godot-313643?style=flat-square&logo=godotengine)
 ![Dioxus](https://img.shields.io/badge/-Dioxus-000000?style=flat-square)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -62,12 +59,9 @@ And occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=fla
 - 🧩 **[MatterTrees](https://github.com/NeonD00m/MatterTrees)** - Plugin for Roblox Studio to create behavior trees for Matter ECS
 - ⚡ **[NeoNet](https://github.com/NeonD00m/NeoNet)** - Easiest networking library with lightweight implementations of advanced features
 
+<!--## GitHub Activity
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/NeonD00m)
-
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/NeonD00m)-->
 
 <!--# EXAMPLES from steipete
 
@@ -184,7 +178,10 @@ And occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=fla
 <details>
 <summary>Fun Facts</summary>
 
-- Currently training in the gym to dunk a basketball, specialize in arm wrestling, and do calisthenics.
+- Currently training in the gym to:
+  - dunk a basketball (one of these saturdays...)
+  - specialize in arm wrestling (*need* to beat that one friend)
+  - practice calisthenics (handstand push up 🙏)
 - My mesocycle as of March is focusing on hypertrophy (and some tendon work for arms)
 - Running on spite and a cold shower in the morning
 - Reading "Atlas Shrugged" by Ayn Rand (long read) (controversial, ik, that's why I want to learn from it)
