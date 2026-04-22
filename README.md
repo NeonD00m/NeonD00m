@@ -45,7 +45,7 @@ Hoping to work on projects using:
 ## Current Projects
 
 - 💧 **[AI Footprint](https://github.com/je-lam/AI-Footprint)** - Tracks your ecological impacts from AI until you worry about it too much
-- ☁️ **[BlueSkies](https://github.com/NeonD00m/blueskies-rust)** - Remake of a school project website in Rust with Dioxus
+- 🌳 **[type-tree](https://github.com/NeonD00m/type-tree)** - Fast Rust binary tree parser and visualizer
 - 🧠 **[Quizzy](https://github.com/NeonD00m/quizzy)** - Flashcard studying from your terminal
 - 🎮 **[Axis](https://github.com/NeonD00m/Axis)** - **A**ctually **A**gnostic **A**xes for your game's input on any device
 - 🍽️ **[MealSense](https://github.com/Victor-JB/MealSense)** - AI Dietitian integrated into your university cafeteria's mobile ordering app 
@@ -181,10 +181,7 @@ Hoping to work on projects using:
 - Currently training in the gym to:
   - dunk a basketball (one of these saturdays...)
   - specialize in arm wrestling (*need* to beat that one friend)
-  - practice calisthenics (handstand push up 🙏)
-- My mesocycle as of March is focusing on hypertrophy (and some tendon work for arms)
-- Running on spite and a cold shower in the morning
+  - learn calisthenics skills (handstand push up 🙏)
 - Reading "Atlas Shrugged" by Ayn Rand (long read) (controversial, ik, that's why I want to learn from it)
-- Probably eating at this very moment (3500 calorie bulk)
 
 </details>
