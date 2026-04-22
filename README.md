@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # I'm Max and welcome to my profile 👋
 
-📚 **Majoring in Computer Science and Engineering **+** a Minor in Economics**
+📚 **Majoring in Computer Science and Engineering **+** Minors in Economics & Responsible Artificial Intelligence**
 
 🎮 **Hobbyist Game Dev with a renewed excitement to explore other fields of software**
 
