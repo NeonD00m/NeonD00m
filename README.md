@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![WXT](https://img.shields.io/badge/-WXT-000000?style=flat-square&logo=wxt)
-
+![Java](https://img.shields.io/badge/-Java%20(OpenJDK)-000000?style=flat-square&logo=openjdk)
 
 Powered by ![Zed](https://img.shields.io/badge/-Zed-000000?style=flat-square&logo=zedindustries)
-and occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=flat-square&logo=googlegemini&logoColor=4588D8)
+and occasionally ![Gemini](https://img.shields.io/badge/-Gemini-121212?style=flat-square&logo=googlegemini&logoColor=4588D8) or ![Claude](https://img.shields.io/badge/-Claude-121212?style=flat-square&logo=claude&logoColor=D97757)
 
 > Slowed down by University, but waiting for my next big project... 🥀
 
